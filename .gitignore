@@ -1,0 +1,15 @@
+*.h26*
+*.mp4
+*.png
+*.ipynb_checkpoints
+*.dat
+*.avi
+__pycache__/
+GA/
+160x*
+128x*
+extras/
+models/*
+models/best*
+models/UCB*
+models/*.blob

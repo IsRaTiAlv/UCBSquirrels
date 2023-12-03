@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/CASIA_utils/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/data/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/datasets_utils/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/datasets_utils/128x128_ESA_UNet_acc:0.9760_loss:0.0596_val-acc:0.9759_val-loss:0.0581_0.22M_01-08-21-DB_UCB300_E:10x1E-4:5x1E-5" />
+      <excludeFolder url="file://$MODULE_DIR$/extras" />
+      <excludeFolder url="file://$MODULE_DIR$/models/128x128_acc_ 0.9415" />
+      <excludeFolder url="file://$MODULE_DIR$/models/128x128_acc_0.9304_loss_0.1065_val-acc_0.9306_val-loss_0.1043_1M_23607-21" />
+      <excludeFolder url="file://$MODULE_DIR$/models/160x160_acc_0.9223_loss_0.1554_val-acc_0.9139_val-loss_0.1736_5M_23-07-21" />
+      <excludeFolder url="file://$MODULE_DIR$/models/160x160_acc_0.9652_loss_0.0490_val-acc_0.9637_val-loss_0.0531_5M_23-07-21" />
+      <excludeFolder url="file://$MODULE_DIR$/models/160x160_acc_0.9674_loss_0.0434_val-acc_0.9666_val-loss_0.0459" />
+      <excludeFolder url="file://$MODULE_DIR$/models/BioSmart" />
+      <excludeFolder url="file://$MODULE_DIR$/models/BioSmart/128x128unet_acc_0.9321_loss_0.1206_val-acc_0.9408_val-loss_0.0973_0.22M_24-10-21-DB_UCB300_Epochs_10x1E-4_" />
+      <excludeFolder url="file://$MODULE_DIR$/models/BioSmart/128x128unet_acc_0.9451_loss_0.0845_val-acc_0.9457_val-loss_0.0826_0.22M_24-10-21-DB_UCB300_Epochs_10x1E-4_5x1E-5" />
+      <excludeFolder url="file://$MODULE_DIR$/models/BioSmart/128x128unet_acc_0.9499_loss_0.0734_val-acc_0.9503_val-loss_0.0719_0.59M_24-10-21-DB_UCB300_Epochs_10x1E-4_" />
+      <excludeFolder url="file://$MODULE_DIR$/models/BioSmart/128x128unet_acc_0.9525_loss_0.0641_val-acc_0.9522_val-loss_0.0649_0.59M_24-10-21-DB_UCB300_Epochs_10x1E-4_5x1E-5" />
+      <excludeFolder url="file://$MODULE_DIR$/models/BioSmart/128x128unet_acc_0.9532_loss_0.0608_val-acc_0.9543_val-loss_0.0572_1.02M_24-10-21-DB_UCB300_Epochs_10x1E-4_" />
+      <excludeFolder url="file://$MODULE_DIR$/models/BioSmart/128x128unet_acc_0.9560_loss_0.0516_val-acc_0.9558_val-loss_0.0523_1.02M_24-10-21-DB_UCB300_Epochs_10x1E-4_5x1E-5" />
+      <excludeFolder url="file://$MODULE_DIR$/models/UCB300" />
+      <excludeFolder url="file://$MODULE_DIR$/models/bestDB" />
+      <excludeFolder url="file://$MODULE_DIR$/recognition/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/segmentation/.ipynb_checkpoints" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>
